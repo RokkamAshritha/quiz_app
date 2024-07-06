@@ -10,5 +10,5 @@ Live Demo:  https://prince-shivaram.github.io/Simple-Weather-App/
 
 ## Show some :heart: and :star: the repo if you like the design.
 
-![WeatherApp](Untitled design.png)
+![QuizApp](Untitled design.png)
 
