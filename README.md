@@ -1,10 +1,10 @@
-# "Simple Weather Application using HTML, CSS &amp; JavaScript"
+# "Simple Quiz Application using HTML, CSS &amp; JavaScript"
 
-## Overview of Weather App
+## Overview of Quiz App
 
-It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
+It's a  Simple Quiz Application made by using HTML, CSS &amp; JavaScript.
 
-The app is created by [J. Siv Ram Shastri](https://www.linkedin.com/in/imsivram1999/) for helping out the beginners on how to make Simple Weather Application using HTML, CSS &amp; JavaScript
+The app is created by [R Ashritha](https://www.linkedin.com/in/rokkam-ashritha2622004) for helping out the beginners on how to make Simple Quiz Application using HTML, CSS &amp; JavaScript
 
 Live Demo:  https://prince-shivaram.github.io/Simple-Weather-App/
 
